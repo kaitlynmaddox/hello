@@ -9,7 +9,7 @@ a {color: #FF7043; text-decoration: none; border-bottom: 1px solid #CCFF26;}
 a:hover {border-bottom: 1px solid #CCFF26; color: #FBE9E7}
 p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 
-.name {font-family: Playfair Display; color: #fff; font-size: 50px; font-weight: 900; padding-bottom: 20px;}
+.name {font-family: Playfair Display; color: #000; font-size: 50px; font-weight: 900; padding-bottom: 20px;}
 
 .container {margin: 0 auto; width: 600px; height: 400px; padding: 80px 12px; overflow: auto;}
 
