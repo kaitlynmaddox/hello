@@ -20,6 +20,6 @@ p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 .inline-list li {display: inline;}
 
 
-footer {margin: 0 auto; position: absolute; bottom: 20px; background-color: green;}
+footer {margin: 0 auto; position: absolute; bottom: 20px; padding: 40px 0; background-color: green;}
 
 
