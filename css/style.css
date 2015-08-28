@@ -5,9 +5,9 @@ body, html {height: 100%;}
 .wrapper {box-sizing: border-box; background: #80CBC4; box-shadow: 0 0 5px #888; height: 100%; overflow: auto; }
 
 
-a {color: #fff; text-decoration: none; border-bottom: 1px solid #CCFF26;}
+a {color: #FF5722; text-decoration: none; border-bottom: 1px solid #CCFF26;}
 a:hover {border-bottom: 1px solid #CCFF26; color: #FF5722}
-p {font-weight: 200; font-size: 20px;}
+p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 
 .name {font-family: Playfair Display; color: #fff; font-size: 50px; font-weight: 900; padding-bottom: 20px;}
 
