@@ -6,7 +6,7 @@ body, html {height: 100%;}
 
 
 a {color: #FFFFFF; text-decoration: none; border-bottom: 1px solid #CCFF26;}
-a:hover {border-bottom: 1px solid #CCFF26; color: #FF7043}
+a:hover {border-bottom: 1px solid #CCFF26; color: #FF8A65}
 p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 
 .name {font-family: Playfair Display; color: #FFFFFF; font-size: 50px; font-weight: 900; padding-bottom: 20px;}
@@ -14,7 +14,7 @@ p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 .container {margin: 0 auto; width: 600px; height: 400px; padding: 80px 12px; overflow: auto; border: 1px solid black;}
 
 .meta {color: #FFFFFF; text-transform: uppercase; font-family: Courier New, Quicksand, "Helvetica Neue", "Arial", sans-serif; font-size: 18px; letter-spacing: .15em;}
-.meta a:hover {border-bottom: 1px solid #CCFF26; color: #FF7043;}
+.meta a:hover {border-bottom: 1px solid #CCFF26; color: #FF8A65;}
 
 .inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline; margin: 10px;}
