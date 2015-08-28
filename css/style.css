@@ -16,10 +16,10 @@ p {color: #FFFFFF; font-weight: 200; font-size: 20px;}
 .meta {color: #FFFFFF; text-transform: uppercase; font-family: Courier New, Quicksand, "Helvetica Neue", "Arial", sans-serif; font-size: 18px; letter-spacing: .15em;}
 .meta a:hover {border-bottom: 1px solid #CCFF26; color: #FF7043;}
 
-.inline-list {list-style: none; margin: 0; padding: 0; border: 1px solid black;}
+.inline-list {list-style: none; margin: 0; padding: 0;}
 .inline-list li {display: inline; margin: 10px;}
 
 
-footer {margin: 0 auto; position: absolute; left: 0; right: 0; width: 900px; bottom: 20px; padding: 40px 0; background-color: green; border: 1px solid black;  text-align: center;}
+footer {margin: 0 auto; position: absolute; left: 0; right: 0; width: 900px; bottom: 20px; padding: 40px 0; text-align: center;}
 
 
